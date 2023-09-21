@@ -15,17 +15,12 @@ This is a web resource accompanying a manuscript in preparation.
 
 ## The steps
 
-
+{% include section-navigation-tiles.html type=”steps” %}
 
 
 ## Please cite this guide as follows
 
 > [Citation information goes here]
-
-
-## Contributors
-
-{% include contributor-tiles-all.html %}
 
 
 ## Acknowledgements
