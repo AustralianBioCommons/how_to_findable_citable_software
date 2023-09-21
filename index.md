@@ -1,20 +1,21 @@
 ---
-title: How-to Guide landing page template
-type: template
+title: How-to make software findable and citable
 contributors: 
-description: Add a plain text description here.
-affiliations: 
+description: A How-to Guide supporting researchers with practical instructions for making their software findable and citable.
+affiliations: [Australian BioCommons]
 ---
 
 
 ## About 
 
-> Add 2-3 sentences here explaining the purpose of the specific guide you are creating.
+Software is central to contemporary scientific research, and as a result should be findable, understandable and citable. This How-to Guide seeks to clarify the practical steps a software creator can follow to achieve this outcome. 
+
+This is a web resource accompanying a manuscript in preparation.
 
 
-## Guide sections
+## The steps
 
-> You can use this section to add navigation tiles for the pages you have created as part of your guide.
+
 
 
 ## Please cite this guide as follows
@@ -22,9 +23,14 @@ affiliations:
 > [Citation information goes here]
 
 
+## Contributors
+
+{% include contributor-tiles-all.html %}
+
+
 ## Acknowledgements
 
-> Don't delete anything from this section, only add.
+This work is supported by the [Australian BioCommons](https://www.biocommons.org.au/) which is enabled by NCRIS via [Bioplatforms Australia](https://bioplatforms.com/) funding.
 
 This guide makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
 
