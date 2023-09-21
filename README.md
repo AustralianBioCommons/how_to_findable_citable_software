@@ -1,6 +1,8 @@
 ## About
 
-Please see the [How-to Guide for the template](https://australianbiocommons.github.io/how-to-guide-template/) for more information on how to get started.  
+Software is central to contemporary scientific research, and as a result should be findable, understandable and citable. This How-to Guide seeks to clarify the practical steps a software creator can follow to achieve this outcome. 
+
+This is a web resource accompanying a manuscript in preparation.  
 
 
 ## Acknowledgements for the guides
