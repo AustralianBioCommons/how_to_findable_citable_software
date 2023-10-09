@@ -168,17 +168,61 @@
 
 - id: workflowhub
   name: WorkflowHub
-  description:
+  description: A free and open source registry that supports the description, sharing and publication of scientific computational workflows.
   url: https://workflowhub.eu/
   related_pages:
+    - 03_informative_name
     - 05_registry
   registry:
     biotools: workflowhub
 - id: dockstore
   name: Dockstore
-  description:
+  description: A free and open source registry / platform that supports the sharing of both tools and workflows.
   url: https://dockstore.org/
   related_pages:
     - 05_registry
   registry:
     biotools: dockstore
+- id: biotools
+  name: bio.tools
+  description: Metadata about bioinformatics software, databases and data services.
+  url: https://bio.tools/
+  related_pages:
+    - 05_registry
+  registry:
+    fairsharing: FAIRsharing.63520c
+- id: scicrunch
+  name: SciCrunch
+  description: Metadata about records such as software, databases, projects and services.
+  url: https://scicrunch.org
+  related_pages:
+    - 05_registry
+  registry:
+    fairsharing: FAIRsharing.kj4pvk
+- id: bioconductor
+  name: Bioconductor
+  description: Packages for software, annotations, data, workflows etc. Mainly written in R.
+  url: https://www.bioconductor.org
+  related_pages:
+    - 05_registry
+  registry:
+    fairsharing: FAIRsharing.81ettx
+- id: biojs
+  name: BioJS
+  description: Open-source library of JavaScript components to visualise biological data.
+  url: https://biojs.net/
+  related_pages:
+    - 05_registry
+  registry:
+    bio.tools: biojs
+- id: biocontainers
+  name: BioContainers
+  description: An infrastructure that provides guidelines and processes to support the creation, management and distribution of bioinformatics containers.
+  url: https://biocontainers.pro
+  related_pages:
+    - 05_registry
+  registry:
+    bio.tools: biocontainers
+
+
+
