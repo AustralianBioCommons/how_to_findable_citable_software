@@ -19,4 +19,20 @@ Johan Gustafsson:
     role: author
     affiliation: Australian BioCommons / University of Melbourne
 
+Simone Leo:
+    git:
+    orcid:
+    role: author
+    affiliation: CRS4, Italy
 
+Hervé Menager:
+    git: hmenager
+    orcid: 0000-0002-7552-1009
+    role: author
+    affiliation: Institut Pasteur, Université Paris-Cité, ELIXIR-FR
+
+Tracy Chew:
+    git: tracychew
+    orcid: 0000-0001-9529-7705
+    role: author
+    affiliation: Sydney Informatics Hub, University of Sydney, New South Wales, Australia
