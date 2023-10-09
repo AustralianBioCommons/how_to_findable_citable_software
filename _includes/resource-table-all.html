@@ -10,8 +10,8 @@
     <table class="tooltable table display">
         <thead>
             <tr class="text-nowrap">
-                <th>How-to Guide or resource {%- if include.tag -%}
-                    <a data-bs-toggle="tooltip" data-bs-original-title="This is a curated list which means that not all tools or resources that exist for this topic are listed here. This is mainly because we do not intend to be a registry.">
+                <th>Resource {%- if include.tag -%}
+                    <a data-bs-toggle="tooltip" data-bs-original-title="This is a curated list which means that not all resources that exist for this topic are listed here. This is mainly because we do not intend to be a registry.">
                         <i class="fa-solid fa-info-circle"></i>
                     </a>{%- endif %}
                 </th>
@@ -79,6 +79,8 @@
                     {%- endif %}
                     {%- if tool.registry.template %}
                     <a data-bs-toggle="tooltip" data-bs-original-title="Template" href="{{tool.registry.template}}"><span class="badge bg-dark text-white hover-primary"><i class="fa-solid fa-info me-2"></i>Template</span></a>
+                    {%- if tool.registry.wizard %}
+                    <a data-bs-toggle="tooltip" data-bs-original-title="Wizard" href="{{tool.registry.wizard}}"><span class="badge bg-dark text-white hover-primary"><i class="fa-solid fa-info me-2"></i>Wizard</span></a>
                     {%- endif %}
                 </td>
             </tr>
