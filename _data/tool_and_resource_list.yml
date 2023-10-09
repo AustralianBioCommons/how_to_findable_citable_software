@@ -63,3 +63,122 @@
 #########
 ### 3 ###
 #########
+
+- id: pokemon-or-big-data
+  name: Pokemon or big data?
+  description:
+  url: http://pixelastic.github.io/pokemonorbigdata/
+  related_pages:
+    - 03_informative_name
+- id: hifiadapterfilt
+  name: HiFiAdapterFilt
+  description:
+  url: https://bio.tools/hifiadapterfilt
+  related_pages:
+    - 03_informative_name
+  registry:
+    biotools: hifiadapterfilt
+- id: fastqc
+  name: FASTQC
+  description:
+  url: https://bio.tools/fastqc
+  related_pages:
+    - 03_informative_name
+  registry:
+    biotools: fastqc
+
+#########
+### 4 ###
+#########
+
+- id: edam
+  name: EDAM
+  description:
+  url: https://edamontology.org/
+  related_pages:
+    - 04_purpose_function_requirements
+- id: edam-browser
+  name: EDAM-Browser
+  description:
+  url: https://edamontology.github.io/edam-browser
+  related_pages:
+    - 04_purpose_function_requirements
+  registry:
+    biotools: edam-browser
+- id: cff
+  name: Citation file format
+  description:
+  url: https://edamontology.github.io/edam-browser
+  related_pages:
+    - 04_purpose_function_requirements
+- id: codemeta
+  name: Codemeta
+  description:
+  url: https://codemeta.github.io/
+  related_pages:
+    - 04_purpose_function_requirements
+  registry:
+    wizard: https://codemeta.github.io/codemeta-generator/
+- id: readme_so
+  name: readme.so
+  description:
+  url: https://readme.so/
+  related_pages:
+    - 04_purpose_function_requirements
+  registry:
+    wizard: https://readme.so/editor
+- id: aus_biocommons_doc_guidelines
+  name: Australian BioCommons documentation guidelines
+  description:
+  url: https://github.com/AustralianBioCommons/doc_guidelines
+  related_pages:
+    - 04_purpose_function_requirements
+- id: evaluator
+  name: FAIRsoft Evaluator
+  description:
+  url: https://openebench.bsc.es/observatory/
+  related_pages:
+    - 04_purpose_function_requirements
+- id: workflows_221_hifiasm
+  name: PacBio HiFi genome assembly using hifiasm
+  description:
+  url: https://workflowhub.eu/workflows/221
+  related_pages:
+    - 04_purpose_function_requirements
+  registry:
+    workflowhub: https://workflowhub.eu/workflows/221
+- id: nf-core_rnaseq
+  name: nf-core/rnaseq
+  description:
+  url: https://github.com/nf-core/rnaseq
+  related_pages:
+    - 04_purpose_function_requirements
+  registry:
+    doi: https://doi.org/10.5281/zenodo.7998767
+- id: bio-cwl-tools
+  name: bio-cwl-tools
+  description:
+  url: https://github.com/common-workflow-library/bio-cwl-tools/blob/258190fac5bb35500544229ff9d679026b5f3aeb/kraken2/kraken2.cwl
+  related_pages:
+    - 04_purpose_function_requirements
+
+#########
+### 5 ###
+#########
+
+- id: workflowhub
+  name: WorkflowHub
+  description:
+  url: https://workflowhub.eu/
+  related_pages:
+    - 05_registry
+  registry:
+    biotools: workflowhub
+- id: dockstore
+  name: Dockstore
+  description:
+  url: https://dockstore.org/
+  related_pages:
+    - 05_registry
+  registry:
+    biotools: dockstore
