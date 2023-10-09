@@ -1,0 +1,18 @@
+#- id:
+#  name:
+#  url:
+#  description:
+#  registry:
+#    doi:
+#    wfh:
+#    wfh-collection:
+#    template:
+#    wizard:
+#  related_pages:
+#    -
+- id: github
+  name: GitHub
+  url: https://github.com/
+  description:
+  related_pages:
+    - 01_source_code
