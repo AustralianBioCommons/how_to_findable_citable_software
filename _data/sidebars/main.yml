@@ -21,6 +21,8 @@ subitems:
     url: /09_cite
   - title: 10. Join or align with a community effort
     url: /10_community_effort
+  - title: View all resources
+    url: /all_resources
   - title: Contributors
     url: /contributors
 
