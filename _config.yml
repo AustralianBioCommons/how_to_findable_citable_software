@@ -7,7 +7,7 @@ title: How-to make software findable and citable
 description: "How-to make software findable and citable"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.1.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.3.0
 
 theme_variables:
   # biocommons blue
