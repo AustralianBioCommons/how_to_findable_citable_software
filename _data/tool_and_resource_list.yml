@@ -10,9 +10,56 @@
 #    wizard:
 #  related_pages:
 #    -
+
+#########
+### 1 ###
+#########
+
 - id: github
   name: GitHub
-  url: https://github.com/
   description:
+  url: https://github.com/
   related_pages:
     - 01_source_code
+  registry:
+    tess: https://tess.elixir-europe.org/search?q=github
+    quick_start: https://docs.github.com/en/get-started/quickstart
+- id: gitlab
+  name: GitLab
+  description:
+  url: https://about.gitlab.com/
+  related_pages:
+    - 01_source_code
+- id: alt_to_vcs
+  name: AlternativeTo - version control
+  description:
+  url: https://alternativeto.net/category/developer-tools/version-control-system/
+  related_pages:
+    - 01_source_code
+- id: bitbucket
+  name: BitBucket
+  description:
+  url: https://bitbucket.org/
+  related_pages:
+    - 01_source_code
+- id: swcarpentry-git-novice
+  name: SoftwareCarpentry - git novice
+  description:
+  url: https://swcarpentry.github.io/git-novice/
+  related_pages:
+    - 01_source_code
+
+#########
+### 2 ###
+#########
+
+- id: choosealicense
+  name: Choose an open source license
+  description:
+  url: https://choosealicense.com
+  related_pages:
+    - 02_licence
+
+#########
+### 3 ###
+#########
