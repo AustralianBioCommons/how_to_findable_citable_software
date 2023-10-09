@@ -1,6 +1,7 @@
 ---
 title: Have an ORCID
 type: steps
+page_id: 06_orcid
 description: 
 ---
 
@@ -11,4 +12,9 @@ description:
 
 ## Why?
 
+
+## References
+
+
+## Resources
 

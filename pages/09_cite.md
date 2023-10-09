@@ -1,6 +1,7 @@
 ---
 title: Cite other tools and workflows
 type: steps
+page_id: 09_cite
 description: 
 ---
 
@@ -11,4 +12,9 @@ description:
 
 ## Why?
 
+
+## References
+
+
+## Resources
 

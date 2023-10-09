@@ -1,6 +1,7 @@
 ---
 title: Join or align with a community effort
 type: steps
+page_id: 10_community_effort
 description: 
 ---
 
@@ -11,4 +12,9 @@ description:
 
 ## Why?
 
+
+## References
+
+
+## Resources
 

@@ -1,6 +1,7 @@
 ---
 title: Include clear citation instructions
 type: steps
+page_id: 08_citation_instructions
 description: 
 ---
 
@@ -11,4 +12,9 @@ description:
 
 ## Why?
 
+
+## References
+
+
+## Resources
 

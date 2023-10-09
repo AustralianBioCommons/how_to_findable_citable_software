@@ -1,6 +1,7 @@
 ---
 title: Give your tool or workflow an informative name
 type: steps
+page_id: 03_informative_name
 description: 
 ---
 
@@ -10,4 +11,10 @@ description:
 {% include callout.html type="note" content="This is a message box. Use the content included here to emphasise important points." %}
 
 ## Why?
+
+
+## References
+
+
+## Resources
 

@@ -1,6 +1,7 @@
 ---
 title: Generate and use digital object identifiers (DOI)
 type: steps
+page_id: 07_doi
 description: 
 ---
 
@@ -11,4 +12,9 @@ description:
 
 ## Why?
 
+
+## References
+
+
+## Resources
 
