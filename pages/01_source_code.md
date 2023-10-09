@@ -15,7 +15,9 @@ You need version control in a public repository.
 - {% tool "github" %},
 - {% tool "gitlab" %}
 
-{% include callout.html type="important" content="If you aren't sure, you can check out {% tool "alt_to_vcs" %} to find more version control systems." %}
+- {% tool "alt_to_vcs" %}
+
+{% include callout.html type="important" content="If you aren't sure, you can check out  to find more version control systems." %}
 
 
 ## Why?
