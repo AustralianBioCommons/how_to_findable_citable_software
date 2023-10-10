@@ -15,7 +15,7 @@ This is a web resource accompanying a manuscript in preparation.
 
 ## The steps
 
-{% include section-navigation-tiles.html type="steps" col: 1 custom: "01_source_code, 02_licence, 03_informative_name, 04_purpose_function_requirements, 05_registry, 06_orcid, 07_doi, 08_citation_instructions, 09_cite, 10_community_effort" %}
+{% include section-navigation-tiles.html type="steps" col: "1" custom: "01_source_code, 02_licence, 03_informative_name, 04_purpose_function_requirements, 05_registry, 06_orcid, 07_doi, 08_citation_instructions, 09_cite, 10_community_effort" %}
 
 
 ## Please cite this guide as follows
