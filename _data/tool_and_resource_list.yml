@@ -224,5 +224,17 @@
   registry:
     bio.tools: biocontainers
 
+#########
+### 10 ###
+#########
 
+- id: galaxy
+  name: Galaxy Project
+  description:
+  url:
+  related_pages:
+    - 10_community_effort
+  registry:
+    bio.tools:
+    training:
 

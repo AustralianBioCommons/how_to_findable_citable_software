@@ -63,7 +63,10 @@
                     <a data-bs-toggle="tooltip" data-bs-original-title="FAIRsharing collection" href="https://fairsharing.org/{{tool.registry.fairsharing-coll}}"><span class="badge bg-dark text-white hover-primary"><i class="fa-solid fa-database me-2"></i>FAIRsharing collection</span></a>
                     {%- endif %}
                     {%- if tool.registry.tess %}
-                    <a data-bs-toggle="tooltip" data-bs-original-title="TeSS" href="https://tess.elixir-europe.org/search?q={{tool.registry.tess}}"><span class="badge bg-dark text-white hover-primary"><i class="fa-solid fa-graduation-cap me-2"></i>Training (TeSS)</span></a>
+                    <a data-bs-toggle="tooltip" data-bs-original-title="Training (TeSS)" href="https://tess.elixir-europe.org/search?q={{tool.registry.tess}}"><span class="badge bg-dark text-white hover-primary"><i class="fa-solid fa-graduation-cap me-2"></i>Training (TeSS)</span></a>
+                    {%- endif %}
+                    {%- if tool.registry.training %}
+                    <a data-bs-toggle="tooltip" data-bs-original-title="Training" href="{{tool.registry.training}}"><span class="badge bg-dark text-white hover-primary"><i class="fa-solid fa-graduation-cap me-2"></i>Training</span></a>
                     {%- endif %}
                     {%- if tool.registry.europmc %}
                     <a data-bs-toggle="tooltip" data-bs-original-title="EuroPMC" href="https://europepmc.org/article/MED/{{tool.registry.europmc}}"><span class="badge bg-dark text-white hover-primary"><i class="fa-solid fa-book me-2"></i>Publication (EuroPMC)</span></a>
