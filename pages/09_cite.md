@@ -13,6 +13,11 @@ description:
 ## Why?
 
 
+## Example
+
+CRAN - Report and Cite Packages documentation: https://cran.r-project.org/web/packages/report/vignettes/cite_packages.html
+
+
 ## References
 
 

@@ -14,6 +14,15 @@ description:
 ## How?
 
 
+## Examples
+
+Using a Nextflow computational workflow as an example, there are effectively three levels of community involvement.
+
+1. Just adopting Nextflow, as it is a popular and well maintained workflow language.
+2. Following community defined (i.e. nf-core) workflow development best practices.
+3. Joining the nf-core community and contributing a workflow directly to their existing maintained collection.
+
+
 
 ### R
 

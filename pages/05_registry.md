@@ -16,6 +16,13 @@ description:
 
 Select a registry based on the type of software you want to register.
 
+re3data (https://www.re3data.org/)
+FAIRsharing (e.g. https://fairsharing.org/search?fairsharingRegistry=Database&q=workflows)
+Awesome Research Software Registries list (https://github.com/NLeSC/awesome-research-software-registries)
+
+
+## Examples
+
 
 ### Analytical tools, biological databases and data services
 
