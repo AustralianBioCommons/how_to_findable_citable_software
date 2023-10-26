@@ -2,7 +2,7 @@
 title: Give your tool or workflow an informative name
 type: steps
 page_id: 03_informative_name
-description: 
+description: Software names should be short, unique, searchable, and provide info about the software while avoiding a prefix (e.g. `bio`) and complex characters.
 ---
 
 
@@ -12,7 +12,6 @@ description:
 
 ## How?
 
-{% include callout.html type="note" content="This is a message box. Use the content included here to emphasise important points." %}
 
 Table 1. Features of a good software name.
 
@@ -27,7 +26,7 @@ Table 1. Features of a good software name.
 
 ## Examples
 
-Great software name examples include `WorkflowHub` (https://workflowhub.eu/), `FASTQC` (https://bio.tools/fastqc) and `hifiadapterfilt` (https://bio.tools/hifiadapterfilt). Each name is short, unique, searchable, and provides information about the software while avoiding both the `bio` prefix and complex characters.
+Great software name examples include {% tool "workflowhub" %}, {% tool "fastqc" %} and {% tool "hifiadapterfilt" %}. Each name is short, unique, searchable, and provides information about the software while avoiding both the `bio` prefix and complex characters.
 
 
 ## References

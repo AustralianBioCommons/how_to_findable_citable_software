@@ -23,7 +23,7 @@ If you aren't sure, you can check out {% tool "alt_to_vcs" %} to find more versi
 
 ## Examples
 
-Here, we provide two examples of version controlled workflows. The first is a Galaxy workflow from the IWC community called `COVID-19: variation analysis on ARTIC PE data` [Maier2022], and the second is a Nextflow workflow called `SAMBA: Standardized and Automated MetaBarcoding Analyses workflow` [Cormier2021].
+Here, we provide two examples of version controlled workflows. The first is a Galaxy workflow from the {% tool "iwc" %} called `COVID-19: variation analysis on ARTIC PE data` [Maier2022], and the second is a Nextflow workflow called `SAMBA: Standardized and Automated MetaBarcoding Analyses workflow` [Cormier2021].
 
 
 ## References

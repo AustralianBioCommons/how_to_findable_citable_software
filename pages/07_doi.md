@@ -2,16 +2,14 @@
 title: Generate and use digital object identifiers (DOI)
 type: steps
 page_id: 07_doi
-description: 
+description: Generate digital object identifiers (DOI) for your tools and workflows and use these to link to your software.
 ---
 
 
-## How?
-
-{% include callout.html type="note" content="This is a message box. Use the content included here to emphasise important points." %}
-
-
 ## Why?
+
+
+## How?
 
 
 ## Example

@@ -2,7 +2,7 @@
 title: Cite other tools and workflows
 type: steps
 page_id: 09_cite
-description: 
+description: Follow others citation instructions, and use DOIs to refer to software that you either use or on which your software depends.
 ---
 
 
@@ -15,7 +15,7 @@ description:
 
 ## Example
 
-CRAN - Report and Cite Packages documentation: https://cran.r-project.org/web/packages/report/vignettes/cite_packages.html
+{% tool "cran" %} provides the following documentation on how to [Report and Cite Packages](https://cran.r-project.org/web/packages/report/vignettes/cite_packages.html).
 
 
 ## References

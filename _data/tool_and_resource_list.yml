@@ -223,18 +223,130 @@
     - 05_registry
   registry:
     bio.tools: biocontainers
+- id: re3data
+  name: re3data
+  description:
+  url: https://www.re3data.org/
+  related_pages:
+    - 05_registry
+- id: fairsharing
+  name: FAIRsharing
+  description:
+  url: https://fairsharing.org/
+  related_pages:
+    - 05_registry
+- id: awesome-research-software-registries-list
+  name: Awesome Research Software Registries list
+  description:
+  url: https://github.com/NLeSC/awesome-research-software-registries
+  related_pages:
+    - 05_registry
+
 
 #########
-### 10 ###
+### 6 ###
 #########
+
+- id: orcid
+  name: ORCID
+  description: Organisation that provides ORCID iDs - persistent and unique identifiers for researchers.
+  url: https://orcid.org/
+  related_pages:
+    - 06_orcid
+
+
+#########
+### 7 ###
+#########
+
+
+#########
+### 8 ###
+#########
+
+
+#########
+### 9 ###
+#########
+
+- id: cran
+  name: CRAN
+  description: The Comprehensive R Archive Network.
+  url: https://cran.r-project.org/
+  related_pages:
+    - 09_cite
+
+
+##########
+### 10 ###
+##########
 
 - id: galaxy
   name: Galaxy Project
   description:
-  url:
+  url: https://galaxyproject.org/
   related_pages:
     - 10_community_effort
   registry:
-    bio.tools:
-    training:
-
+    bio.tools: galaxy
+    training: https://training.galaxyproject.org/
+- id: galaxy-iwc
+  name: Galaxy Intergalactic Workflows Commission (IWC)
+  description: A community effort to create, test and share high quality Galaxy workflows.
+  url: https://github.com/galaxyproject/iwc
+  related_pages:
+    - 10_community_effort
+- id: nextflow
+  name: Nextflow
+  description: Workflow management system.
+  url: https://www.nextflow.io/
+  related_pages:
+    - 10_community_effort
+  registry:
+    community: https://nf-co.re/
+- id: nf-core
+  name: nf-core
+  description: Community effort focused on developing Nextflow workflows.
+  url: https://nf-co.re/
+  related_pages:
+    - 10_community_effort
+- id: snakemake
+  name: Snakemake
+  description: Workflow management system.
+  url: https://github.com/snakemake/snakemake
+  related_pages:
+    - 10_community_effort
+  registry:
+    community: https://snakemake.github.io/
+- id: snakemake-community
+  name: Snakemake community
+  description: Community effort focused on developing Snakemake workflows.
+  url: https://snakemake.github.io/
+  related_pages:
+    - 10_community_effort
+- id: cwl
+  name: CWL
+  description: Common Workflow Language (CWL).
+  url: https://github.com/common-workflow-language/common-workflow-language
+  related_pages:
+    - 10_community_effort
+  registry:
+    community: https://www.commonwl.org/
+- id: cwl-community
+  name: CWL community
+  description: Community effort focused on developing CWL workflows.
+  url: https://www.commonwl.org/
+  related_pages:
+    - 10_community_effort
+- id: r
+  name: R
+  description: R programming language.
+  url: https://www.r-project.org/
+  related_pages:
+    - 10_community_effort
+- id: python
+  name: Python
+  description: Python programming language.
+  url: https://www.python.org/
+  related_pages:
+    - 10_community_effort

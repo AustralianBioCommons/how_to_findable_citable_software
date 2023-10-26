@@ -1,8 +1,8 @@
 ---
-title: Add your tools and workflows to a well known registry
+title: Register
 type: steps
 page_id: 05_registry
-description: 
+description: Add your tools and workflows to a registry that is well known and best practice.
 ---
 
 
@@ -12,17 +12,15 @@ description:
 
 ## How?
 
-{% include callout.html type="note" content="This is a message box. Use the content included here to emphasise important points." %}
+Select a registry based on the type of software you want to register:
 
-Select a registry based on the type of software you want to register.
-
-re3data (https://www.re3data.org/)
-FAIRsharing (e.g. https://fairsharing.org/search?fairsharingRegistry=Database&q=workflows)
-Awesome Research Software Registries list (https://github.com/NLeSC/awesome-research-software-registries)
+- {% tool "re3data" %}
+- {% tool "FAIRsharing" %}
+  - Search for workflows: https://fairsharing.org/search?fairsharingRegistry=Database&q=workflows
+- {% tool "awesome-research-software-registries-list" %}
 
 
 ## Examples
-
 
 ### Analytical tools, biological databases and data services
 
@@ -31,19 +29,14 @@ Awesome Research Software Registries list (https://github.com/NLeSC/awesome-rese
 - {% tool "bioconductor" %}, 
 - {% tool "biojs" %}
 
-
 ### Containers
 
 - {% tool "biocontainers" %}
-
 
 ### Scientific computational workflows, containers 
 
 - {% tool "workflowhub" %}
 - {% tool "dockstore" %} 
-
-
-
 
 
 ## References
