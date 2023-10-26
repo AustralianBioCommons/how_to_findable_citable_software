@@ -15,7 +15,7 @@ description: Add your tools and workflows to a registry that is well known and b
 Select a registry based on the type of software you want to register:
 
 - {% tool "re3data" %}
-- {% tool "FAIRsharing" %}
+- {% tool "fairsharing" %}
   - Search for workflows: https://fairsharing.org/search?fairsharingRegistry=Database&q=workflows
 - {% tool "awesome-research-software-registries-list" %}
 
