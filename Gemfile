@@ -13,4 +13,8 @@ group :jekyll_plugins do
   gem "jekyll-relative-links", "~> 0.7.0"
   gem "jekyll-seo-tag", "~> 2.8"
   gem "jekyll-remote-theme", "~> 0.4.3"
+  gem 'citeproc'
+  gem 'citeproc-ruby'
+  gem 'csl-styles'
+  gem 'jekyll-scholar'
 end
