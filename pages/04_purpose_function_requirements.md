@@ -22,7 +22,7 @@ Ontologies are standardised dictionaries for specific domains, and make sure tha
 
 The next level for annotations is to include metadata files alongside your software that are both human and machine-readable. Good options include:
 
-- Citation file format (`CITATION.cff`)[Druskat2021].
+- Citation file format (`CITATION.cff`)[Druskat2021]{% cite druskat_citation_2021 %}.
 - Codemeta (`codemeta.json`, https://codemeta.github.io/)[Jones2017]. This project offers a useful online wizard that generates a correctly structured `codemeta.json` file for you: https://codemeta.github.io/codemeta-generator/.
 
 ### 3. Long form text descriptions: 
