@@ -28,5 +28,5 @@ Examples from platforms that render formatted citations for registered objects:
 ## References
 
 
-## Resources
+## Page resources
 

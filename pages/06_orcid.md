@@ -26,5 +26,5 @@ Here are some examples to show how ORCID connects the dots. If you create workfl
 ## References
 
 
-## Resources
+## Page resources
 

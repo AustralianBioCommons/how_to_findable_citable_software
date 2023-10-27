@@ -14,7 +14,9 @@ description: Document your tool or workflow to clearly describe purpose, functio
 
 ### 1. Ontology terms and tags
 
-Ontologies are standardised dictionaries for specific domains, and make sure that researchers are using the same names to describe the same concepts. EDAM is a good choice for bioscience[Ison2013]. It is under constant development and is used by registries (e.g. bio.tools[Ison2019], WorkflowHub[Goble2021]). This interactive browser created by the EDAM team makes selecting terms a breeze: https://edamontology.github.io/edam-browser. If EDAM is not suitable, you can use FAIRsharing to locate additional ontologies (https://fairsharing.org/search?fairsharingRegistry=Standard) [Sansone2019]. You can also add custom tags or keywords to your software. Terms commonly used in your research community or domain would be a good start.
+Ontologies are standardised dictionaries for specific domains, and make sure that researchers are using the same names to describe the same concepts. EDAM is a good choice for bioscience[Ison2013]. It is under constant development and is used by registries (e.g. bio.tools[Ison2019], WorkflowHub[Goble2021]). If EDAM is not suitable, you can use FAIRsharing to locate additional ontologies (https://fairsharing.org/search?fairsharingRegistry=Standard) [Sansone2019]. You can also add custom tags or keywords to your software. Terms commonly used in your research community or domain would be a good start.
+
+{% include callout.html type="tip" content="This interactive browser created by the EDAM team makes selecting terms a breeze: https://edamontology.github.io/edam-browser." %}
 
 ### 2. Standard metadata files
 
@@ -54,5 +56,5 @@ We have included examples here that follow one or more annotation and documentat
 ## References
 
 
-## Resources
+## Page resources
 

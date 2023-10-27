@@ -32,5 +32,5 @@ Great software name examples include {% tool "workflowhub" %}, {% tool "fastqc" 
 ## References
 
 
-## Resources
+## Page resources
 

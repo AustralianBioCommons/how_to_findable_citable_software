@@ -20,5 +20,5 @@ We have included examples of WorkflowHub DOIs that provide persistent links to w
 ## References
 
 
-## Resources
+## Page resources
 

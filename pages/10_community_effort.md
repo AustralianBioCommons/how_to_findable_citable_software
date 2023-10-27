@@ -50,5 +50,5 @@ Using a {% tool "nextflow" %} computational workflow as an example, there are ef
 ## References
 
 
-## Resources
+## Page resources
 

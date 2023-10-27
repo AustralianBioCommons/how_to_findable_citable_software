@@ -6,6 +6,9 @@ description: Add your source code to an open source repository with version cont
 ---
 
 
+## Why?
+
+
 ## How?
 
 You need version control in a public repository.
@@ -18,9 +21,6 @@ You need version control in a public repository.
 If you aren't sure, you can check out {% tool "alt_to_vcs" %} to find more version control systems.
 
 
-## Why?
-
-
 ## Examples
 
 Here, we provide two examples of version controlled workflows. The first is a Galaxy workflow from the {% tool "galaxy-iwc" %} called `COVID-19: variation analysis on ARTIC PE data` [Maier2022], and the second is a Nextflow workflow called `SAMBA: Standardized and Automated MetaBarcoding Analyses workflow` [Cormier2021].
@@ -29,5 +29,5 @@ Here, we provide two examples of version controlled workflows. The first is a Ga
 ## References
 
 
-## Resources
+## Page resources
 

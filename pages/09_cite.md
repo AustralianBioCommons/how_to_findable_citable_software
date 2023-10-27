@@ -21,5 +21,5 @@ description: Follow others citation instructions, and use DOIs to refer to softw
 ## References
 
 
-## Resources
+## Page resources
 

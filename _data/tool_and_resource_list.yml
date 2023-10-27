@@ -59,6 +59,12 @@
   url: https://choosealicense.com
   related_pages:
     - 02_licence
+- id: tldr-legal
+  name: tl;drLegal
+  description: Clear summaries of software licenses.
+  url: https://tldrlegal.com
+  related_pages:
+    - 02_licence
 
 #########
 ### 3 ###

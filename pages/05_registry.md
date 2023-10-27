@@ -42,5 +42,5 @@ Select a registry based on the type of software you want to register:
 ## References
 
 
-## Resources
+## Page resources
 
