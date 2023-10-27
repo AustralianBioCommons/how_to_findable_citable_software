@@ -24,7 +24,7 @@ Select a registry based on the type of software you want to register:
 
 ### Analytical tools, biological databases and data services
 
-- {% tool "biotools" %}, 
+- {% tool "biotools" %}{% cite ison_biotools_2019 }, 
 - {% tool "scicrunch" %}, 
 - {% tool "bioconductor" %}, 
 - {% tool "biojs" %}
@@ -35,11 +35,13 @@ Select a registry based on the type of software you want to register:
 
 ### Scientific computational workflows, containers 
 
-- {% tool "workflowhub" %}
+- {% tool "workflowhub" %}{% cite goble_implementing_2021 }
 - {% tool "dockstore" %} 
 
 
 ## References
+
+{% bibliography --cited %}
 
 
 ## Page resources
