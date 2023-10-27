@@ -55,6 +55,8 @@ We have included examples here that follow one or more annotation and documentat
 
 ## References
 
+{% bibliography --cited %}
+
 
 ## Page resources
 
