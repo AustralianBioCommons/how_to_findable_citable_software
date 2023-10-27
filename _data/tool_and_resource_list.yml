@@ -92,6 +92,22 @@
     - 03_informative_name
   registry:
     biotools: fastqc
+- id: samtools
+  name: SAMtools
+  description:
+  url: https://bio.tools/samtools
+  related_pages:
+    - 03_informative_name
+  registry:
+    biotools: samtools
+- id: bedtools
+  name: BEDTools
+  description:
+  url: https://bio.tools/bedtools
+  related_pages:
+    - 03_informative_name
+  registry:
+    biotools: bedtools
 
 #########
 ### 4 ###

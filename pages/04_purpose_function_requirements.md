@@ -16,7 +16,7 @@ description: Document your tool or workflow to clearly describe purpose, functio
 
 Ontologies are standardised dictionaries for specific domains, and make sure that researchers are using the same names to describe the same concepts. EDAM is a good choice for bioscience{% cite ison_edam_2013 %}. It is under constant development and is used by registries (e.g. bio.tools{% cite ison_biotools_2019 %}, WorkflowHub{% cite goble_implementing_2021 %}). If EDAM is not suitable, you can use FAIRsharing to locate additional ontologies (https://fairsharing.org/search?fairsharingRegistry=Standard) [Sansone2019]. You can also add custom tags or keywords to your software. Terms commonly used in your research community or domain would be a good start.
 
-{% include callout.html type="tip" content="This interactive browser created by the EDAM team makes selecting terms a breeze: https://edamontology.github.io/edam-browser." %}
+{% include callout.html type="tip" content="[EDAM browser](https://edamontology.github.io/edam-browser) makes selecting terms a breeze!" %}
 
 ### 2. Standard metadata files
 
@@ -50,7 +50,7 @@ We have included examples here that follow one or more annotation and documentat
 
 - PacBio HiFi genome assembly using hifiasm[Price2022].
 - rnaseq nf-core workflow[Patel2023]. 
-- bio-cwl-tools collection (https://github.com/common-workflow-library/bio-cwl-tools): includes tools and workflows that embed metadata into the CWL code. For example, `Kraken2` [Wood2019] in this collection uses Schema.org [Guha2015] metadata annotations: https://github.com/common-workflow-library/bio-cwl-tools/blob/258190fac5bb35500544229ff9d679026b5f3aeb/kraken2/kraken2.cwl .
+- [bio-cwl-tools collection](https://github.com/common-workflow-library/bio-cwl-tools): includes tools and workflows that embed metadata into the CWL code. For example, `Kraken2` [Wood2019] in this collection uses `Schema.org` [Guha2015] [metadata annotations](https://github.com/common-workflow-library/bio-cwl-tools/blob/258190fac5bb35500544229ff9d679026b5f3aeb/kraken2/kraken2.cwl).
 
 
 ## References
