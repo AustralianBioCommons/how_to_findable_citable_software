@@ -14,7 +14,7 @@ description: Document your tool or workflow to clearly describe purpose, functio
 
 ### 1. Ontology terms and tags
 
-Ontologies are standardised dictionaries for specific domains, and make sure that researchers are using the same names to describe the same concepts. EDAM is a good choice for bioscience{% cite ison_edam_2013 }. It is under constant development and is used by registries (e.g. bio.tools{% cite ison_biotools_2019 }, WorkflowHub{% cite goble_implementing_2021 }). If EDAM is not suitable, you can use FAIRsharing to locate additional ontologies (https://fairsharing.org/search?fairsharingRegistry=Standard) [Sansone2019]. You can also add custom tags or keywords to your software. Terms commonly used in your research community or domain would be a good start.
+Ontologies are standardised dictionaries for specific domains, and make sure that researchers are using the same names to describe the same concepts. EDAM is a good choice for bioscience{% cite ison_edam_2013 %}. It is under constant development and is used by registries (e.g. bio.tools{% cite ison_biotools_2019 %}, WorkflowHub{% cite goble_implementing_2021 %}). If EDAM is not suitable, you can use FAIRsharing to locate additional ontologies (https://fairsharing.org/search?fairsharingRegistry=Standard) [Sansone2019]. You can also add custom tags or keywords to your software. Terms commonly used in your research community or domain would be a good start.
 
 {% include callout.html type="tip" content="This interactive browser created by the EDAM team makes selecting terms a breeze: https://edamontology.github.io/edam-browser." %}
 
@@ -31,13 +31,13 @@ Additional long form descriptions can be added directly to websites, platforms o
 
 ### 4. Complete documentation sets
 
-Long form text descriptions, which should cover purpose, scope and requirements, can be extended to create complete documentation (covered well in this Ten Simple Rules article{% cite lee_ten_2018 }). 
+Long form text descriptions, which should cover purpose, scope and requirements, can be extended to create complete documentation (covered well in this Ten Simple Rules article{% cite lee_ten_2018 %}). 
 
 {% include callout.html type="tip" content="If you do this, you do not need to start from scratch every time. Make life easier for yourself by reusing one of the approaches detailed below!" %}
 
 - Reuse a template that is used in your community. Did you know that by using a blank community template (e.g. nf-core, https://nf-co.re/tools/#creating-a-new-pipeline, https://github.com/AustralianBioCommons/doc_guidelines) you can address almost all of the steps described here! 
 - A point-and-click build a README template (https://readme.so/)[Oelsner2023]. 
-- Automated documentation tools, as described in rule number eight of `Ten Simple Rules for documenting scientific software`{% cite lee_ten_2018 }.
+- Automated documentation tools, as described in rule number eight of `Ten Simple Rules for documenting scientific software`{% cite lee_ten_2018 %}.
 
 ### 5. Software publication
 
