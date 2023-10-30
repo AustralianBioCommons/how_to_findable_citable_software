@@ -15,9 +15,9 @@ description: Document your tool or workflow to clearly describe purpose, functio
 
 ### 1. Ontology terms and tags
 
-Ontologies are standardised dictionaries for specific domains, and make sure that researchers are using the same names to describe the same concepts. EDAM is a good choice for bioscience{% cite ison_edam_2013 %}. It is under constant development and is used by registries (e.g. {% tool "biotools" %} {% cite ison_biotools_2019 %}, {% tool "workflowhub" %} {% cite goble_implementing_2021 %}). 
+Ontologies are standardised dictionaries for specific domains, and make sure that researchers are using the same names to describe the same concepts. EDAM is a good choice for bioscience {% cite ison_edam_2013 %}. It is under constant development and is used by registries (e.g. {% tool "biotools" %} {% cite ison_biotools_2019 %}, {% tool "workflowhub" %} {% cite goble_implementing_2021 %}). 
 
-If EDAM is not suitable, you can use {% tool "fairsharing" %} to [locate additional ontologies](https://fairsharing.org/search?fairsharingRegistry=Standard){% cite sansone_fairsharing_2019 %}. You can also add custom tags or keywords to your software. Terms commonly used in your research community or domain would be a good start.
+If EDAM is not suitable, you can use {% tool "fairsharing" %} to [locate additional ontologies](https://fairsharing.org/search?fairsharingRegistry=Standard) {% cite sansone_fairsharing_2019 %}. You can also add custom tags or keywords to your software. Terms commonly used in your research community or domain would be a good start.
 
 {% include callout.html type="tip" content="[EDAM browser](https://edamontology.github.io/edam-browser) makes selecting terms a breeze!" %}
 
@@ -32,7 +32,7 @@ The next level for annotations is to include metadata files alongside your softw
 {% include callout.html type="tip" content="Use the available online wizards to create [`codemeta.json`](https://codemeta.github.io/codemeta-generator/) and [`CITATION.cff`](https://citation-file-format.github.io/cff-initializer-javascript/#/) files!" %}
 
 
-### 3. Long form text descriptions: 
+### 3. Long form text descriptions
 
 Additional long form descriptions can be added directly to websites, platforms or registries where your software can be accessed {% cite lee_ten_2018 hermann_documenting_2022 %}. 
 
