@@ -6,9 +6,6 @@ description: Add your source code to an open source repository with version cont
 ---
 
 
-## Why?
-
-
 ## How?
 
 You need to version control your work in a public repository.

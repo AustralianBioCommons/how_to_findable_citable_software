@@ -6,19 +6,16 @@ description: Generate digital object identifiers (DOI) for your tools and workfl
 ---
 
 
-## Why?
-
-
 ## How?
 
 
 ## Example
 
-We have included examples of WorkflowHub DOIs that provide persistent links to workflows:
+We have included examples of publications where WorkflowHub DOIs are included: providing persistent links to workflows:
 
-- [Satgunaseelan2022]
-- [Atasoy2023]
-- [Lott2023] 
+- {% cite satgunaseelan_viral_2022 %}
+- {% cite atasoy_microbial_2023 %}
+- {% cite lott_futureproofing_2022 %}
 
 You can find additional examples by searching Google Scholar for the core 
 element of the WorkflowHub DOI: `10.48546/WORKFLOWHUB.WORKFLOW`.

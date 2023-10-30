@@ -6,11 +6,11 @@ description: Document your tool or workflow to clearly describe purpose, functio
 ---
 
 
-## Why?
-
-
-
 ## How?
+
+Pick one, or more, of the following options (#1-5) for documenting your tool of workflow.
+
+{% include callout.html type="note" content="These options are listed in order of increasing complexity and completeness." %}
 
 
 ### 1. Ontology terms and tags
@@ -43,9 +43,9 @@ Long form text descriptions, which should cover purpose, scope and requirements,
 
 {% include callout.html type="tip" content="If you do this, you do not need to start from scratch every time. Make life easier for yourself by reusing one of the approaches detailed below!" %}
 
-- Reuse a template that is used in your community. Did you know that by using a blank community template (e.g. [nf-core creating a new pipeline](https://nf-co.re/tools/#creating-a-new-pipeline), [Australian BioCommons documentation guidelines](https://github.com/AustralianBioCommons/doc_guidelines)) you can address almost all of the steps described here! 
-- Build a README template using {% tool "readme_so" %} {% cite oelsner_readmeso_nodate %}. 
-- Automated documentation tools, as described in rule number eight of `Ten Simple Rules for documenting scientific software` {% cite lee_ten_2018 %}.
+- **Reuse a template that is used in your community**. Did you know that by using a blank community template (e.g. [nf-core creating a new pipeline](https://nf-co.re/tools/#creating-a-new-pipeline), [Australian BioCommons documentation guidelines](https://github.com/AustralianBioCommons/doc_guidelines)) you can address almost all of the steps described here! 
+- **Build a README template using {% tool "readme_so" %}** {% cite oelsner_readmeso_nodate %}. 
+- **Automated documentation tools**, as described in rule number eight of `Ten Simple Rules for documenting scientific software` {% cite lee_ten_2018 %}.
 
 
 ### 5. Software publication
@@ -57,9 +57,9 @@ The final, most time consuming, and arguably most valuable avenue is to document
 
 We have included examples here that follow one or more annotation and documentation best practices:
 
-- PacBio HiFi genome assembly using hifiasm {% cite price_pacbio_2022 %}.
-- rnaseq nf-core workflow {% cite harshil_patel_nf-corernaseq_2023 %}. 
-- [bio-cwl-tools collection](https://github.com/common-workflow-library/bio-cwl-tools): includes tools and workflows that embed metadata into the `CWL` code. For example, `Kraken2` {% cite wood_improved_2019 %} in this collection uses `Schema.org` {% cite guha_schemaorg_2015 %} [metadata annotations](https://github.com/common-workflow-library/bio-cwl-tools/blob/258190fac5bb35500544229ff9d679026b5f3aeb/kraken2/kraken2.cwl).
+- `PacBio HiFi genome assembly using hifiasm` workflow {% cite price_pacbio_2022 %}.
+- `rnaseq nf-core` workflow {% cite harshil_patel_nf-corernaseq_2023 %}. 
+- [`bio-cwl-tools` collection](https://github.com/common-workflow-library/bio-cwl-tools): includes tools and workflows that embed metadata into the `CWL` code. For example, `Kraken2` {% cite wood_improved_2019 %} in this collection uses `Schema.org` {% cite guha_schemaorg_2015 %} [metadata annotations](https://github.com/common-workflow-library/bio-cwl-tools/blob/258190fac5bb35500544229ff9d679026b5f3aeb/kraken2/kraken2.cwl).
 
 
 ## References

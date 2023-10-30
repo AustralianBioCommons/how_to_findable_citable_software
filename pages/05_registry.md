@@ -6,27 +6,22 @@ description: Add your tools and workflows to a registry that is well known and b
 ---
 
 
-## Why?
-
-
-
 ## How?
 
-Select a registry based on the type of software you want to register:
+Select a registry based on the type of software you want to register. If you aren't sure, you can use resources like {% tool "re3data" %}, {% tool "fairsharing" %} {% cite sansone_fairsharing_2019 %} or {% tool "awesome-research-software-registries-list" %} to search for a suitable registry.
 
-- {% tool "re3data" %}
-- {% tool "fairsharing" %}
-  - Search for workflows: https://fairsharing.org/search?fairsharingRegistry=Database&q=workflows
-- {% tool "awesome-research-software-registries-list" %}
+For example, you can [search FAIRsharing for workflows](https://fairsharing.org/search?fairsharingRegistry=Database&q=workflows).
+
+You can also find a selection of suitable registries listed in the [examples section below](#examples).
 
 
 ## Examples
 
 ### Analytical tools, biological databases and data services
 
-- {% tool "biotools" %} {% cite ison_biotools_2019 %}, 
-- {% tool "scicrunch" %}, 
-- {% tool "bioconductor" %}, 
+- {% tool "biotools" %} {% cite ison_biotools_2019 %}
+- {% tool "scicrunch" %}
+- {% tool "bioconductor" %}
 - {% tool "biojs" %}
 
 ### Containers

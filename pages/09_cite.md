@@ -8,10 +8,6 @@ description: Follow others citation instructions, and use DOIs to refer to softw
 
 ## How?
 
-{% include callout.html type="note" content="This is a message box. Use the content included here to emphasise important points." %}
-
-## Why?
-
 
 ## Example
 

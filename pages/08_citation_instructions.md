@@ -6,9 +6,6 @@ description: Provide clear citation instructions to users of your tool or workfl
 ---
 
 
-## Why?
-
-
 ## How?
 
 

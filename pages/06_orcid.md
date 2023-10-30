@@ -6,17 +6,21 @@ description: Generate an ORCID and use this identifier to connect your collectiv
 ---
 
 
-## Why?
-
-
 ## How?
 
-{% tool "orcid" %}
+1. Visit the {% tool "orcid" %} website.
+2. Click on `SIGN IN / REGISTER`.
+3. Follow the instructions in the registration wizard to create your ORCID iD.
+4. See the [ORCID support page](https://support.orcid.org) to discover how you can use your ORCID.
+
+{% include callout.html type="tip" content="You can add your ORCID iD whenever a platform or service provides this as an option - for example {% tool "zenodo" %}, {% tool "workflowhub" %}, conference platforms, and journals / publishers." %}
 
 
 ## Examples
 
-Here are some examples to show how ORCID connects the dots. If you create workflows or tools, you can tie your collective works together with an ORCID. An ORCID plus DOIs equals a record of connected outputs:
+Here are some examples to show how ORCID connects the dots. If you create workflows or tools, you can tie your collective works together with an ORCID. 
+
+{% include callout.html type="important" content="An ORCID plus DOIs equals a record of connected outputs!" %}
 
 - The {% tool "galaxy" %} workflow design GUI (also called the "canvas") has a `Creator` field in its best practice metadata wizard, and an adjacent `Identifier` field that encourages the use of an ORCID.
 - {% tool "workflowhub" %} encourages each registered user to uniquely identify themselves using an ORCID iD: this is part of the recommended metadata.

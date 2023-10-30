@@ -263,6 +263,12 @@
   url: https://github.com/NLeSC/awesome-research-software-registries
   related_pages:
     - 05_registry
+- id: zenodo
+  name: Zenodo
+  description: An open science focused repository for sharing documents, data and software.
+  url: https://zenodo.org/
+  related_pages:
+    - 05_registry
 
 
 #########

@@ -1,8 +1,6 @@
 ---
 title: How-to make software findable and citable
-contributors: 
 description: A How-to Guide supporting researchers with practical instructions for making their software findable and citable.
-affiliations: [Australian BioCommons]
 ---
 
 
