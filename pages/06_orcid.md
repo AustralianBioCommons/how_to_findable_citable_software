@@ -13,7 +13,7 @@ description: Generate an ORCID and use this identifier to connect your collectiv
 3. Follow the instructions in the registration wizard to create your ORCID iD.
 4. See the [ORCID support page](https://support.orcid.org) to discover how you can use your ORCID.
 
-{% include callout.html type="tip" content="You can add your ORCID iD whenever a platform or service provides this as an option - for example {% tool "zenodo" %}, {% tool "workflowhub" %}, conference platforms, and journals / publishers." %}
+{% include callout.html type="tip" content="You can add your ORCID iD whenever a platform or service provides this as an option - for example Zenodo, WorkflowHub, conference platforms, and journals / publishers." %}
 
 
 ## Examples
