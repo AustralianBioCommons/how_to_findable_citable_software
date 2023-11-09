@@ -1,11 +1,15 @@
 # see https://github.com/AustralianBioCommons/human-omics-data-sharing-field-guide/blob/main/_data/footer.yml
 copyright: Copyright notice
-extra_line: Add other relevant information here!
+extra_line: This is a web resource accompanying a manuscript in preparation.
 columns:
   - type: links
     width: 3
     children:
-      - url_text: Home
+      - url_text: About
         url: /
+      - url_text: View all resources
+        url: /all_resources
       - url_text: Contributors
         url: /contributors
+      - url_text: References
+        url: /references

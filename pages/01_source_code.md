@@ -6,9 +6,10 @@ description: Add your source code to an open source repository with version cont
 ---
 
 
-## How?
+{% include callout.html type="important" content="You need to version control your software in a public repository." %}
 
-You need to version control your work in a public repository.
+
+## How?
 
 1. The first step is picking a suitable repository. Some popular options include {% tool "github" %} and {% tool "gitlab" %}.
 2. If you aren't sure, or you are looking for more options, you can check out {% tool "alt_to_vcs" %} to find more version control systems.

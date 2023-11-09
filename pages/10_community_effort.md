@@ -6,6 +6,9 @@ description: Align to, follow, or join a community effort that is relevant to yo
 ---
 
 
+{% include callout.html type="important" content="Join, or align with, a community that is related to your software type or language. Their standards and guidelines will often help make your software findable and citable." %}
+
+
 ## How?
 
 Using a {% tool "nextflow" %} computational workflow as an example, there are effectively three levels of community involvement:

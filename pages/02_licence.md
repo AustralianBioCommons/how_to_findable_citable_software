@@ -6,6 +6,9 @@ description: Add a licence to ensure others can reuse your software.
 ---
 
 
+{% include callout.html type="important" content="To ensure others can reuse your software, you need to license it for reuse." %}
+
+
 ## How?
 
 Use one of the following resources to select a suitable licence for your work.

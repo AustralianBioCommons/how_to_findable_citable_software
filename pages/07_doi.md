@@ -6,6 +6,9 @@ description: Generate digital object identifiers (DOI) for your tools and workfl
 ---
 
 
+{% include callout.html type="important" content="A DOI is a persistent identifier, and allows unambiguous linking to your software." %}
+
+
 ## How?
 
 

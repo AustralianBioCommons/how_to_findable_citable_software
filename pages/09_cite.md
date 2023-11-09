@@ -6,6 +6,9 @@ description: Follow others citation instructions, and use DOIs to refer to softw
 ---
 
 
+{% include callout.html type="important" content="Help support a culture of recognition by citing the software that you use, according to the citation instructions of the software creators." %}
+
+
 ## How?
 
 

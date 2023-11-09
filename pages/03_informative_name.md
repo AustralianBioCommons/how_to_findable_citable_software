@@ -6,6 +6,9 @@ description: Software names should be short, unique, searchable, and provide inf
 ---
 
 
+{% include callout.html type="important" content="An ideal name will make your software recognisable, its function understandable, and make the software easy to find using a search engine." %}
+
+
 ## How?
 
 Make sure that the name for your tool or workflow has at least some of the following features.
