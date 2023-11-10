@@ -324,6 +324,24 @@
   url: https://github.com/galaxyproject/iwc
   related_pages:
     - 10_community_effort
+- id: galaxy-iuc
+  name: Galaxy Intergalactic Utilities Commission (IUC)
+  description: A community effort to create, test and share high quality Galaxy tool wrappers.
+  url: https://galaxyproject.org/iuc/
+  related_pages:
+    - 10_community_effort
+- id: microgalaxy
+  name: microGalaxy community
+  description: A community focused on the use of Galaxy for microbial data analysis.
+  url: https://galaxyproject.org/projects/microbial/
+  related_pages:
+    - 10_community_effort
+- id: galaxyproteomics
+  name: Galaxy Proteomics (Galaxy-P)
+  description: A community focused on the use of Galaxy for proteomics.
+  url: http://galaxyp.org/
+  related_pages:
+    - 10_community_effort
 - id: nextflow
   name: Nextflow
   description: Workflow management system.

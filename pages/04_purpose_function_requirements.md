@@ -15,6 +15,8 @@ Pick one, or more, of the following options (#1-5) for documenting your tool of 
 
 {% include callout.html type="note" content="These options are listed in order of increasing complexity and completeness." %}
 
+{% include callout.html type="important" content="Don't forget that there are services available that allow you to check the FAIRness of your software! See [below](#check-fairness) for more details." %}
+
 
 ### 1. Ontology terms and tags
 
@@ -54,6 +56,12 @@ Long form text descriptions, which should cover purpose, scope and requirements,
 ### 5. Software publication
 
 The final, most time consuming, and arguably most valuable avenue is to document your software in a peer-reviewed journal publication[Romano2020]. Aside from documentation, the literature is the most obvious place to look for software purpose and function, as publications explain the context in which the software was created. If you’re not sure where to publish, a list of target journals is available from the Software Sustainability Institute [ChueHong2023]. When publishing, don’t forget to use your ORCID to identify yourself as an author [step #6](#06_orcid).
+
+
+## Check FAIRness
+
+- [**FAIRsoft Evaluator**](https://openebench.bsc.es/observatory/)
+- 
 
 
 ## Examples

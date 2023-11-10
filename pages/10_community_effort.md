@@ -20,8 +20,8 @@ Using a {% tool "nextflow" %} computational workflow as an example, there are ef
 
 ## Examples
 
-- **{% tool "cwl" %}**
-- **{% tool "galaxy" %}**: The Galaxy project has many communities that address software. The most prominent include the Intergalactic Utilities Commission (IUC) and IWC who look after software tools and computational workflows respectively. There are also many domain specific communities as well, including for example, microGalaxy and Galaxy-Proteomics (Galaxy-P).
+- **{% tool "cwl" %}**: {% tool "cwl-community" %}
+- **{% tool "galaxy" %}**: The Galaxy project has many communities that address software. The most prominent include the {% tool "galaxy-iuc" %} and {% tool "galaxy-iwc" %} who look after software tools and computational workflows respectively. There are also many domain specific communities as well, including for example, {% tool "microgalaxy" %} and {% tool "galaxyproteomics" %}.
 - **{% tool "python" %}**
 - **{% tool "nextflow" %}**: {% tool "nf-core" %} is a significant effort in this space, and there are talks, training and hackathons you can join. Check out their [`join nf-core`](https://nf-co.re/join) page to find out how to get involved. 
 - **{% tool "r" %}**: {% tool "bioconductor" %}

@@ -11,7 +11,7 @@ description: Add your tools and workflows to a registry that is well known and b
 
 ## How?
 
-Select a registry based on the type of software you want to register. If you aren't sure, you can use resources like {% tool "re3data" %}, {% tool "fairsharing" %} {% cite sansone_fairsharing_2019 %} or {% tool "awesome-research-software-registries-list" %} to search for a suitable registry.
+Select a registry based on the type of software you want to register. If you aren't sure, you can use resources like {% tool "re3data" %} {% cite gfz_german_research_centre_for_geosciences_registry_2013 %}, {% tool "fairsharing" %} {% cite sansone_fairsharing_2019 %} or {% tool "awesome-research-software-registries-list" %} to search for a suitable registry.
 
 For example, you can [search FAIRsharing for workflows](https://fairsharing.org/search?fairsharingRegistry=Database&q=workflows).
 
@@ -34,7 +34,7 @@ You can also find a selection of suitable registries listed in the [examples sec
 ### Scientific computational workflows, containers 
 
 - {% tool "workflowhub" %} {% cite goble_implementing_2021 %}
-- {% tool "dockstore" %} 
+- {% tool "dockstore" %} {% cite yuen_dockstore_2021 %}
 
 
 ## References
