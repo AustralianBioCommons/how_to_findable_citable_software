@@ -17,10 +17,10 @@ Don't forget to also consult the [Software Citation Checklist for Developers](ht
 
 ### Use services that render a citation for you
 
-| Source                   | Citation example                                                                                                                                                                                                              |
-|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {% tool "workflowhub" %} | `Price, G., & Farquharson, K. (2022). PacBio HiFi genome assembly using hifiasm v2.1. WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.WORKFLOW.221.3` {% cite price_pacbio_2022 %}                                 |
-| {% tool "zenodo" %}      | `Anne Fouilloux, & Melanie Föll. (2021). Galaxy workflow from Galaxy 101 for everyone (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5090049` {% cite fouilloux_galaxy_2021 %} |
+| Source      | Citation example                                                                                                                                                                                                              |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| WorkflowHub | `Price, G., & Farquharson, K. (2022). PacBio HiFi genome assembly using hifiasm v2.1. WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.WORKFLOW.221.3` {% cite price_pacbio_2022 %}                                 |
+| Zenodo      | `Anne Fouilloux, & Melanie Föll. (2021). Galaxy workflow from Galaxy 101 for everyone (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5090049` {% cite fouilloux_galaxy_2021 %} |
 
 {% include callout.html type="note" content="Some platforms also allow you to select from multiple citation styles." %}
 
