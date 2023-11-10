@@ -31,9 +31,9 @@ or it will be at the top of the search engine result.
 ### Informative
 
 If possible, the name can explain what the tool or workflow does. 
-Good examples are {% tool "bedtools" %} and {% tool "samtools" %}, 
-as the names mention the data formats used (`BED`, `SAM`) and suggest 
-that the software encompasses many tools. 
+Good examples are {% tool "bedtools" %} {% cite quinlan_bedtools_2010 %} and 
+{% tool "samtools" %} {% cite li_sequence_2009 %}, as the names mention the 
+data formats used (`BED`, `SAM`) and suggest that the software encompasses many tools. 
 
 {% include callout.html type="tip" content="Some names don’t really tell 
 you anything about the software. As an example, accept this challenge: 
