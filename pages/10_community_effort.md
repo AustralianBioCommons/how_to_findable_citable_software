@@ -34,7 +34,7 @@ Using a {% tool "nextflow" %} computational workflow as an example, there are ef
 {% include callout.html type="tip" content="Are you not sure which community to join? You could start by joining one of the many [RSE societies](https://researchsoftware.org/) that exist globally. These communities address many of the challenges faced by creators of research-centric software, including visibility of their contribution to research." %}
  
 
-### Table 3. A selection of community guidelines and standards for software.
+### A selection of community guidelines and standards for software
 
 | Practice  | IWC (Galaxy | nf-core (Nextflow) | Snakemake-workflows + [guidelines](https://github.com/snakemake-workflows/docs#guidelines) + [distribution & reproducibility](https://snakemake.readthedocs.io/en/stable/snakefiles/deployment.html#distribution-and-reproducibility) | FAIR4RS {% cite barker_introducing_2022 %} | [ELIXIR SMP](https://github.com/elixir-europe/smp) {% cite alves_elixir_2021 %} |
 |----|---|---|---|---|---|
@@ -47,6 +47,9 @@ Using a {% tool "nextflow" %} computational workflow as an example, there are ef
 | Metadata (e.g., author) | Yes | No | No | Yes | Yes |
 | Coding style | No | Yes | No | No | No |
 | Containerization | No | Yes | No | No | Yes |
+
+<br>
+<br>
 
 
 ## References

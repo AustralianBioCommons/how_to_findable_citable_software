@@ -26,6 +26,9 @@ Here are some examples to show how ORCID connects the dots. If you create workfl
 - {% tool "workflowhub" %} encourages each registered user to uniquely identify themselves using an ORCID iD: this is part of the recommended metadata.
 - You can link your GitHub account directly to your ORCID, by adding your ORCID link to the social accounts section of your [GitHub profile settings](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#adding-links-to-your-social-accounts). This will enable you to credit your contributions to all GitHub-hosted projects through your ORCID profile.
 
+<br>
+<br>
+
 
 ## References
 

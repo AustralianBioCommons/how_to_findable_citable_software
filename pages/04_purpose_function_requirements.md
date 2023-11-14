@@ -57,7 +57,7 @@ The final, most time consuming, and arguably most valuable avenue is to document
 
 ## Check FAIRness
 
-- [**FAIRsoft Evaluator**](https://openebench.bsc.es/observatory/)
+- [FAIRsoft Evaluator](https://openebench.bsc.es/observatory/)
 - 
 
 
@@ -68,6 +68,9 @@ We have included examples here that follow one or more annotation and documentat
 - `PacBio HiFi genome assembly using hifiasm` workflow {% cite price_pacbio_2022 %}.
 - `rnaseq nf-core` workflow {% cite harshil_patel_nf-corernaseq_2023 %}. 
 - [`bio-cwl-tools` collection](https://github.com/common-workflow-library/bio-cwl-tools): includes tools and workflows that embed metadata into the `CWL` code. For example, `Kraken2` {% cite wood_improved_2019 %} in this collection uses `Schema.org` {% cite guha_schemaorg_2015 %} [metadata annotations](https://github.com/common-workflow-library/bio-cwl-tools/blob/258190fac5bb35500544229ff9d679026b5f3aeb/kraken2/kraken2.cwl).
+
+<br>
+<br>
 
 
 ## References

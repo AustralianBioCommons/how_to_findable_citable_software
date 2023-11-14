@@ -23,6 +23,9 @@ Here, we’ve included some steps to success:
 
 - {% tool "cran" %} provides the following documentation on how to [Report and Cite Packages](https://cran.r-project.org/web/packages/report/vignettes/cite_packages.html).
 
+<br>
+<br>
+
 
 ## References
 

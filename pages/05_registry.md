@@ -39,6 +39,9 @@ You can also find a selection of suitable registries listed in the [examples sec
 - {% tool "workflowhub" %} {% cite goble_implementing_2021 %}
 - {% tool "dockstore" %} {% cite yuen_dockstore_2021 %}
 
+<br>
+<br>
+
 
 ## References
 

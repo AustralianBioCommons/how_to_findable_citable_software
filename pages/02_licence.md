@@ -25,6 +25,9 @@ of any kind. The work is provided "as is" and users may not hold the author liab
 
 Key groups in the bioinformatics community (e.g. {% tool "nf-core" %} and {% tool "snakemake-community" %}) recommend this licence.
 
+<br>
+<br>
+
 
 ## References
 

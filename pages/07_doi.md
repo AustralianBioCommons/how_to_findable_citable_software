@@ -28,6 +28,9 @@ We have included examples of publications where WorkflowHub DOIs are included: p
 You can find additional examples by searching [Google Scholar](https://scholar.google.com/) for the core 
 element of the WorkflowHub DOI: `10.48546/WORKFLOWHUB.WORKFLOW`.
 
+<br>
+<br>
+
 
 ## References
 
