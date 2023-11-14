@@ -21,11 +21,12 @@ Here, we provide two examples of version controlled workflows:
 - Galaxy workflow from the {% tool "galaxy-iwc" %}: `COVID-19: variation analysis on ARTIC PE data` {% cite maier_sars-cov-2-pe-illumina-artic-variant-callingcovid-19-pe-artic-illumina_2022 %}, and 
 - Nextflow workflow: `SAMBA: Standardized and Automated MetaBarcoding Analyses workflow` {% cite cormier_samba_2021 %}.
 
+\\
 
 ## References
 
 {% bibliography --cited %}
 
 
-## Page resources
+## Resource list
 
