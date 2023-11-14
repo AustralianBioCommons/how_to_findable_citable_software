@@ -6,7 +6,7 @@ description: Provide clear citation instructions to users of your tool or workfl
 ---
 
 
-{% include callout.html type="important" content="Make sure others know how to cite your software by providing clear instructions, or by using standards like the citation file format (*.CFF)." %}
+**Make sure others know how to cite your software by providing clear instructions, or by using standards like the citation file format (*.CFF).**
 
 
 ## How?

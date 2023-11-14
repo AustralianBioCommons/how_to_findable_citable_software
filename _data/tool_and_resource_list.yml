@@ -274,6 +274,24 @@
   url: https://zenodo.org/
   related_pages:
     - 05_registry
+- id: bioimage
+  name: BioImage Informatics Index
+  description:
+  url: https://biii.eu/
+  related_pages:
+    - 05_registry
+- id: bioconda
+  name: BIOCONDA
+  description:
+  url: https://bioconda.github.io/
+  related_pages:
+    - 05_registry
+- id: softwareheritage
+  name: Software Heritage
+  description:
+  url: https://www.softwareheritage.org/
+  related_pages:
+    - 05_registry
 
 
 #########

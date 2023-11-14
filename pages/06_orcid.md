@@ -6,7 +6,7 @@ description: Generate an ORCID and use this identifier to connect your collectiv
 ---
 
 
-{% include callout.html type="important" content="An ORCID plus DOIs equals a record of connected outputs!" %}
+**An ORCID plus DOIs equals a record of connected outputs!**
 
 
 ## How?

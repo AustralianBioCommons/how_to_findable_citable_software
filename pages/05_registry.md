@@ -6,7 +6,7 @@ description: Add your tools and workflows to a registry that is well known and b
 ---
 
 
-{% include callout.html type="important" content="Including your software in a registry instantly makes it more findable, and lets you annotate according to best practice metadata standards." %}
+**Including your software in a registry instantly makes it more findable, and lets you annotate according to best practice metadata standards.**
 
 
 ## How?
@@ -23,13 +23,17 @@ You can also find a selection of suitable registries listed in the [examples sec
 ### Analytical tools, biological databases and data services
 
 - {% tool "biotools" %} {% cite ison_biotools_2019 %}
-- {% tool "scicrunch" %}
-- {% tool "bioconductor" %}
-- {% tool "biojs" %}
+- {% tool "scicrunch" %} {% cite noauthor_fdi_nodate %}
+- {% tool "bioconductor" %} {% cite huber_orchestrating_2015 %}
+- {% tool "biojs" %} {% cite noauthor_biojs_nodate %}
+- {% tool "bioimage" %} 
+- {% tool "bioconda" %} 
+
 
 ### Containers
 
-- {% tool "biocontainers" %}
+- {% tool "biocontainers" %} {% cite da_veiga_leprevost_biocontainers_2017 %}
+
 
 ### Scientific computational workflows, containers 
 

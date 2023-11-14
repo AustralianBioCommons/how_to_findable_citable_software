@@ -6,7 +6,7 @@ description: Document your tool or workflow to clearly describe purpose, functio
 ---
 
 
-{% include callout.html type="important" content="To find and understand your software, documentation that describes its function needs to be accessible to both the user and to search engines. Structured and meaningful documentation directly supports the reuse and citation of your software." %}
+**To find and understand your software, documentation that describes its function needs to be accessible to both the user and to search engines. Structured and meaningful documentation directly supports the reuse and citation of your software.**
 
 
 ## How?
