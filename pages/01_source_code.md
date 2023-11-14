@@ -6,7 +6,7 @@ description: Add your source code to an open source repository with version cont
 ---
 
 
-{% include callout.html type="important" content="You need to version control your software in a public repository." %}
+**You need to version control your software in a publicly accessible repository.**
 
 
 ## How?

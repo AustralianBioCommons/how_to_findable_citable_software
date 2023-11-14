@@ -17,7 +17,7 @@
 
 - id: github
   name: GitHub
-  description:
+  description: Platform for collaborative development and version control using git.
   url: https://github.com/
   related_pages:
     - 01_source_code
@@ -26,13 +26,13 @@
     quick_start: https://docs.github.com/en/get-started/quickstart
 - id: gitlab
   name: GitLab
-  description:
+  description: Platform for collaborative development and version control using git.
   url: https://about.gitlab.com/
   related_pages:
     - 01_source_code
 - id: alt_to_vcs
   name: AlternativeTo - version control
-  description:
+  description: Resource page that helps you select a suitable version control system (VCS).
   url: https://alternativeto.net/category/developer-tools/version-control-system/
   related_pages:
     - 01_source_code
@@ -44,7 +44,7 @@
     - 01_source_code
 - id: swcarpentry-git-novice
   name: SoftwareCarpentry - git novice
-  description:
+  description: A git novice lesson from Software Carpentry.
   url: https://swcarpentry.github.io/git-novice/
   related_pages:
     - 01_source_code
@@ -55,7 +55,7 @@
 
 - id: choosealicense
   name: Choose an open source license
-  description:
+  description: Online resource that helps you to choose a suitable open source license.
   url: https://choosealicense.com
   related_pages:
     - 02_licence
@@ -72,7 +72,7 @@
 
 - id: pokemon-or-big-data
   name: Pokemon or big data?
-  description:
+  description: Can you work out which names are from Pokemon, and which are from Big Data?
   url: http://pixelastic.github.io/pokemonorbigdata/
   related_pages:
     - 03_informative_name
@@ -115,13 +115,15 @@
 
 - id: edam
   name: EDAM
-  description:
+  description: An ontology covering Topics, Operations, Data and Formats within research.
   url: https://edamontology.org/
   related_pages:
     - 04_purpose_function_requirements
+  registry:
+    tess: EDAM
 - id: edam-browser
   name: EDAM-Browser
-  description:
+  description: An interactive browser and search tool for the EDAM ontology.
   url: https://edamontology.github.io/edam-browser
   related_pages:
     - 04_purpose_function_requirements
@@ -151,7 +153,7 @@
     wizard: https://readme.so/editor
 - id: aus_biocommons_doc_guidelines
   name: Australian BioCommons documentation guidelines
-  description:
+  description: A set of guidelines for documenting bioinformatics tools and workflows.
   url: https://github.com/AustralianBioCommons/doc_guidelines
   related_pages:
     - 04_purpose_function_requirements
@@ -163,7 +165,7 @@
     - 04_purpose_function_requirements
 - id: workflows_221_hifiasm
   name: PacBio HiFi genome assembly using hifiasm
-  description:
+  description: Galaxy workflow for de novo genome assembly based on reads built from PacBio circular consensus sequence high fidelity (HiFi) reads.
   url: https://workflowhub.eu/workflows/221
   related_pages:
     - 04_purpose_function_requirements
@@ -171,7 +173,7 @@
     workflowhub: https://workflowhub.eu/workflows/221
 - id: nf-core_rnaseq
   name: nf-core/rnaseq
-  description:
+  description: A nf-core RNAseq workflow.
   url: https://github.com/nf-core/rnaseq
   related_pages:
     - 04_purpose_function_requirements
@@ -197,6 +199,7 @@
     - 05_registry
   registry:
     biotools: workflowhub
+    documentation: https://about.workflowhub.eu/docs/
 - id: dockstore
   name: Dockstore
   description: A free and open source registry / platform that supports the sharing of both tools and workflows.
@@ -205,6 +208,7 @@
     - 05_registry
   registry:
     biotools: dockstore
+    documentation: https://docs.dockstore.org/en/stable
 - id: biotools
   name: bio.tools
   description: Metadata about bioinformatics software, databases and data services.
@@ -213,6 +217,7 @@
     - 05_registry
   registry:
     fairsharing: FAIRsharing.63520c
+    documentation: https://biotools.readthedocs.io/en/latest/index.html
 - id: scicrunch
   name: SciCrunch
   description: Metadata about records such as software, databases, projects and services.
@@ -259,7 +264,7 @@
     - 05_registry
 - id: awesome-research-software-registries-list
   name: Awesome Research Software Registries list
-  description:
+  description: A list of research software registries maintained by the Netherlands eScience Center (NLeSC).
   url: https://github.com/NLeSC/awesome-research-software-registries
   related_pages:
     - 05_registry
@@ -319,13 +324,13 @@
     bio.tools: galaxy
     training: https://training.galaxyproject.org/
 - id: galaxy-iwc
-  name: Galaxy Intergalactic Workflows Commission (IWC)
+  name: Intergalactic Workflows Commission (IWC)
   description: A community effort to create, test and share high quality Galaxy workflows.
   url: https://github.com/galaxyproject/iwc
   related_pages:
     - 10_community_effort
 - id: galaxy-iuc
-  name: Galaxy Intergalactic Utilities Commission (IUC)
+  name: Intergalactic Utilities Commission (IUC)
   description: A community effort to create, test and share high quality Galaxy tool wrappers.
   url: https://galaxyproject.org/iuc/
   related_pages:

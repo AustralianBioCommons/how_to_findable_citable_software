@@ -8,13 +8,8 @@ description: A How-to Guide supporting researchers with practical instructions f
 
 Software is central to contemporary scientific research, and as a result should be findable, understandable and citable. This How-to Guide seeks to clarify the practical steps a software creator can follow to achieve this outcome. 
 
-This is a web resource accompanying a manuscript in preparation.
-
-
-## Why and How
-
 This web resource is paired with a manuscript in preparation that describes the **`Why`** and **`How`** of making software
-findable and citable. This resource expands on the `How` and adds `Examples` for each step.
+findable and citable. This resource expands on the **`How`** and adds **`Examples`** for each step.
 
 
 ## The steps
