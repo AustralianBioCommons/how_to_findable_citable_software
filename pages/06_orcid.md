@@ -1,6 +1,5 @@
 ---
 title: Have an ORCID
-type: steps
 page_id: 06_orcid
 description: Generate an ORCID and use this identifier to connect your collective works on tools and workflows.
 ---

@@ -1,6 +1,5 @@
 ---
 title: State purpose, function and requirements
-type: steps
 page_id: 04_purpose_function_requirements
 description: Document your tool or workflow to clearly describe purpose, function and requirements. E.g. annotations, standard metadata files, long form text descriptions, complete user documentation and / or software publication. 
 ---

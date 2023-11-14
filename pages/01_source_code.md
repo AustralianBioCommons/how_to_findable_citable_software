@@ -1,6 +1,5 @@
 ---
 title: Have publicly accessible source code
-type: steps
 page_id: 01_source_code
 description: Add your source code to an open source repository with version control.
 ---

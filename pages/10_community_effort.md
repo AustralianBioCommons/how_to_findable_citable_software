@@ -1,6 +1,5 @@
 ---
 title: Join or align with a community effort
-type: steps
 page_id: 10_community_effort
 description: Align to, follow, or join a community effort that is relevant to your software. For example, coding language, platform, or scientific domain specific communities.
 datatable: true

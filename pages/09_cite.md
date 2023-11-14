@@ -1,6 +1,5 @@
 ---
 title: Cite other tools and workflows
-type: steps
 page_id: 09_cite
 description: Follow others citation instructions, and use DOIs to refer to software that you either use or on which your software depends.
 ---

@@ -1,6 +1,5 @@
 ---
 title: Generate and use digital object identifiers (DOI)
-type: steps
 page_id: 07_doi
 description: Generate digital object identifiers (DOI) for your tools and workflows and use these to link to your software.
 ---

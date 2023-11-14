@@ -1,6 +1,5 @@
 ---
 title: Select a suitable licence
-type: steps
 page_id: 02_licence
 description: Add a licence to ensure others can reuse your software.
 ---

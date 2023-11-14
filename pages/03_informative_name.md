@@ -1,6 +1,5 @@
 ---
 title: Give your tool or workflow an informative name
-type: steps
 page_id: 03_informative_name
 description: Software names should be short, unique, searchable, and provide info about the software while avoiding a prefix (e.g. `bio`) and complex characters.
 ---

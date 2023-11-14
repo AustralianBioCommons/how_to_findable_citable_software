@@ -1,6 +1,5 @@
 ---
 title: Register
-type: steps
 page_id: 05_registry
 description: Add your tools and workflows to a registry that is well known and best practice.
 ---

@@ -1,6 +1,5 @@
 ---
 title: Include clear citation instructions
-type: steps
 page_id: 08_citation_instructions
 description: Provide clear citation instructions to users of your tool or workflow, for example by using a standard file (e.g. CITATION.cff). 
 ---
