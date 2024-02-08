@@ -1,10 +1,8 @@
 ---
-title: How-to make software findable and citable
+title: About
 description: A How-to Guide supporting researchers with practical instructions for making their software findable and citable.
 ---
 
-
-## About 
 
 Software is central to contemporary scientific research, and as a result should be findable, understandable and citable. This How-to Guide seeks to clarify the practical steps a software creator can follow to achieve this outcome. 
 
