@@ -15,6 +15,7 @@ authors:
     affiliation: Australian BioCommons, University of Melbourne
   - given-names: Simone
     family-names: Leo
+    orcid:
     affiliation: CRS4, Italy
   - given-names: Hervé
     family-names: Menager
@@ -22,18 +23,20 @@ authors:
     affiliation: Institut Pasteur, Université Paris-Cité, ELIXIR-FR
   - given-names: Tracy
     family-names: Chew
-    orcid: 'https://orcid.org/0000-0001-9529-7705'
+    orcid: https://orcid.org/0000-0001-9529-7705
     affiliation: >-
       Sydney Informatics Hub, University of Sydney, New
       South Wales, Australia
   - given-names: Georgina
     family-names: Samaha
-    orcid: 'https://orcid.org/0000-0003-0419-1476'
+    orcid: https://orcid.org/0000-0003-0419-1476
     affiliation: University of Sydney
   - given-names: Hans
     family-names: Ienasescu
+    orcid:
   - given-names: Matúš
     family-names: Kalaš
+    orcid: https://orcid.org/0000-0002-1509-4981
     affiliation: University of Bergen, Norway
   - given-names: Paula
     family-names: Martinez

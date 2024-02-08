@@ -20,7 +20,7 @@ Johan Gustafsson:
     affiliation: Australian BioCommons / University of Melbourne
 
 Simone Leo:
-    git:
+    git: simleo
     orcid:
     role: author
     affiliation: CRS4, Italy
@@ -44,25 +44,25 @@ Georgina Samaha:
     affiliation: University of Sydney
 
 Hans Ienasescu:
-    git:
+    git: hansioan
     orcid:
     role: author
     affiliation:
 
 Matúš Kalaš:
-    git:
+    git: matuskalas
     orcid:
     role: author
     affiliation: University of Bergen, Norway
 
-Paula Martinez:
-    git:
+Paula Andrea Martinez:
+    git: orchid00
     orcid: 0000-0002-8990-1985
     role: author
     affiliation: Australian Research Data Commons
 
 Carole Goble:
-    git:
+    git: CaroleGoble
     orcid: 0000-0003-1219-2137
     role: author
     affiliation:
