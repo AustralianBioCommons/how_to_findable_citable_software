@@ -10,7 +10,7 @@
 .navbar-nav .nav-item > a {
     &.active {
         color: $white;
-        background-color: $secondary;
+        background-color: $primary;
         border-radius: $border-radius;
     }
 }
@@ -18,7 +18,7 @@
 /* see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme*/
 
 header .navbar {
-    background-color: $secondary;
+    background-color: $primary;
     .navbar-brand {
         font-size: 2.25rem;
         color: $white !important;
