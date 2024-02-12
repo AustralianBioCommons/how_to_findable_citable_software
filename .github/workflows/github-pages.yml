@@ -29,11 +29,11 @@ jobs:
           git add -A
           git diff-index --quiet HEAD || git commit -m "update refs"
 
-      - name: Push if changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+      #- name: Push if changes
+      #  uses: ad-m/github-push-action@v0.6.0
+      #  with:
+      #    github_token: ${{ secrets.GITHUB_TOKEN }}
+      #    branch: main
 
       # Use GitHub Actions' cache to cache dependencies on servers
   build:
