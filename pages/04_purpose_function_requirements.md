@@ -57,8 +57,10 @@ The final, most time consuming, and arguably most valuable avenue is to document
 
 ## Check FAIRness
 
-- [FAIRsoft Evaluator](https://openebench.bsc.es/observatory/)
-- 
+- [FAIRsoft Evaluator](https://openebench.bsc.es/observatory/) {% cite del_pico_fairsoft_2022 %}
+- [Self-assessment for FAIR research software](https://fairsoftwarechecklist.net/v0.2/) {% cite %}
+- [FAIRshare](https://fairdataihub.org/fairshare) - the FAIR-BioRS guidelines appear in the manuscript {% cite %}
+- [FAIR software recommendations](https://fair-software.eu/) {% cite %}
 
 
 ## Examples
