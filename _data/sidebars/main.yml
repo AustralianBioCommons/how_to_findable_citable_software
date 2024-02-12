@@ -1,26 +1,28 @@
 subitems:
   - title: About
     url: /index
-  - title: 1. Have publicly accessible source code
-    url: /01_source_code
-  - title: 2. Select a suitable licence
-    url: /02_licence
-  - title: 3. Give your tool or workflow an informative name
-    url: /03_informative_name
-  - title: 4. State purpose, function and requirements
-    url: /04_purpose_function_requirements
-  - title: 5. Add your tools and workflows to a well known registry
-    url: /05_registry
-  - title: 6. Have an ORCID
-    url: /06_orcid
-  - title: 7. Generate and use digital object identifiers (DOI)
-    url: /07_doi
-  - title: 8. Include clear citation instructions
-    url: /08_citation_instructions
-  - title: 9. Cite other tools and workflows
-    url: /09_cite
-  - title: 10. Join or align with a community effort
-    url: /10_community_effort
+  - title: How-to Guide steps
+    subitems:
+      - title: 1. Have publicly accessible source code
+        url: /01_source_code
+      - title: 2. Select a suitable licence
+        url: /02_licence
+      - title: 3. Give your tool or workflow an informative name
+        url: /03_informative_name
+      - title: 4. State purpose, function and requirements
+        url: /04_purpose_function_requirements
+      - title: 5. Add your tools and workflows to a well known registry
+        url: /05_registry
+      - title: 6. Have an ORCID
+        url: /06_orcid
+      - title: 7. Generate and use digital object identifiers (DOI)
+        url: /07_doi
+      - title: 8. Include clear citation instructions
+        url: /08_citation_instructions
+      - title: 9. Cite other tools and workflows
+        url: /09_cite
+      - title: 10. Join or align with a community effort
+        url: /10_community_effort
   - title: View all resources
     url: /all_resources
   - title: Contributors
