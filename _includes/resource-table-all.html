@@ -92,6 +92,9 @@
                     {%- if tool.registry.community %}
                     <a data-bs-toggle="tooltip" data-bs-original-title="Community" href="{{tool.registry.community}}"><span class="badge bg-dark text-white hover-primary"><i class="fa-solid fa-info me-2"></i>Community</span></a>
                     {%- endif %}
+                    {%- if tool.registry.guide %}
+                    <a data-bs-toggle="tooltip" data-bs-original-title="Guide" href="{{tool.registry.guide}}"><span class="badge bg-dark text-white hover-primary"><i class="fa-solid fa-info me-2"></i>User guide</span></a>
+                    {%- endif %}
                 </td>
             </tr>
             {%- endfor %}

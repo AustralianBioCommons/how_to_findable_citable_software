@@ -135,6 +135,8 @@
   url: https://edamontology.github.io/edam-browser
   related_pages:
     - 04_purpose_function_requirements
+  registry:
+    wizard: https://citation-file-format.github.io/cff-initializer-javascript/#/
 - id: codemeta
   name: Codemeta
   description:
@@ -145,7 +147,7 @@
     wizard: https://codemeta.github.io/codemeta-generator/
 - id: readme_so
   name: readme.so
-  description:
+  description: Create custom README.md files for your repository.
   url: https://readme.so/
   related_pages:
     - 04_purpose_function_requirements
@@ -157,6 +159,8 @@
   url: https://github.com/AustralianBioCommons/doc_guidelines
   related_pages:
     - 04_purpose_function_requirements
+  registry:
+    guide: https://australianbiocommons.github.io/how-to-doc-guidelines/
 - id: evaluator
   name: FAIRsoft Evaluator
   description:
@@ -170,7 +174,7 @@
   related_pages:
     - 04_purpose_function_requirements
   registry:
-    workflowhub: https://workflowhub.eu/workflows/221
+    wfh: https://workflowhub.eu/workflows/221
 - id: nf-core_rnaseq
   name: nf-core/rnaseq
   description: A nf-core RNAseq workflow.
@@ -241,7 +245,7 @@
   related_pages:
     - 05_registry
   registry:
-    bio.tools: biojs
+    biotools: biojs
 - id: biocontainers
   name: BioContainers
   description: An infrastructure that provides guidelines and processes to support the creation, management and distribution of bioinformatics containers.
@@ -249,7 +253,7 @@
   related_pages:
     - 05_registry
   registry:
-    bio.tools: biocontainers
+    biotools: biocontainers
 - id: re3data
   name: re3data
   description:
@@ -286,6 +290,8 @@
   url: https://bioconda.github.io/
   related_pages:
     - 05_registry
+  registry:
+    biotools: bioconda
 - id: softwareheritage
   name: Software Heritage
   description:
@@ -339,7 +345,7 @@
   related_pages:
     - 10_community_effort
   registry:
-    bio.tools: galaxy
+    biotools: galaxy
     training: https://training.galaxyproject.org/
 - id: galaxy-iwc
   name: Intergalactic Workflows Commission (IWC)
@@ -353,6 +359,8 @@
   url: https://galaxyproject.org/iuc/
   related_pages:
     - 10_community_effort
+  registry:
+    documentation: https://galaxy-iuc-standards.readthedocs.io/en/latest/
 - id: microgalaxy
   name: microGalaxy community
   description: A community focused on the use of Galaxy for microbial data analysis.
