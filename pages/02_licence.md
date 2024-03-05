@@ -23,7 +23,7 @@ and licence notices. Choosing an MIT licence means you are permitting: commercia
 or remove rights of the original licence), and private use. The limitations exist to protect the author, and do not provide warranty 
 of any kind. The work is provided "as is" and users may not hold the author liable. 
 
-Key groups in the bioinformatics community (e.g. {% tool "nf-core" %} and {% tool "snakemake-community" %}) recommend this licence.
+Key groups in the bioinformatics community (e.g. {% tool "nf-core" %} and {% tool "snakemake" %}) recommend this licence.
 
 <br>
 <br>
