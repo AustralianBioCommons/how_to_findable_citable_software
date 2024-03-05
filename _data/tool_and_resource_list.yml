@@ -395,12 +395,6 @@
     - 10_community_effort
   registry:
     community: https://snakemake.github.io/
-- id: snakemake-community
-  name: Snakemake community
-  description: Community effort focused on developing Snakemake workflows.
-  url: https://snakemake.github.io/
-  related_pages:
-    - 10_community_effort
 - id: cwl
   name: CWL
   description: Common Workflow Language (CWL).
@@ -409,21 +403,19 @@
     - 10_community_effort
   registry:
     community: https://www.commonwl.org/
-- id: cwl-community
-  name: CWL community
-  description: Community effort focused on developing CWL workflows.
-  url: https://www.commonwl.org/
-  related_pages:
-    - 10_community_effort
 - id: r
   name: R
   description: R programming language.
   url: https://www.r-project.org/
   related_pages:
     - 10_community_effort
+  registry:
+    biotools: https://bio.tools/r
 - id: python
   name: Python
   description: Python programming language.
   url: https://www.python.org/
   related_pages:
     - 10_community_effort
+  registry:
+    community: https://www.python.org/community/

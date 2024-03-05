@@ -20,16 +20,16 @@ Using a {% tool "nextflow" %} computational workflow as an example, there are ef
 
 ## Examples
 
-- **{% tool "r" %}**: {% tool "bioconductor" %} {% cite huber_orchestrating_2015 %}
-- **{% tool "python" %}**
+- **{% tool "r" %}**: Visit {% tool "bioconductor" %} {% cite huber_orchestrating_2015 %}
+- **{% tool "python" %}**: Visit the [community page](https://www.python.org/community/) to learn more
 - **{% tool "biocontainers" %}** {% cite da_veiga_leprevost_biocontainers_2017 %}
-- **{% tool "cwl" %}**: {% tool "cwl-community" %}
+- **{% tool "cwl" %}**: Visit this [community effort](https://www.commonwl.org/) focused on developing CWL workflows
 - **{% tool "galaxy" %}**: The Galaxy project has many communities that address software. The most prominent include:
   - {% tool "galaxy-iuc" %}: software
   - {% tool "galaxy-iwc" %}: computational workflows
   - There are also many domain specific communities as well, including for example, {% tool "microgalaxy" %} and {% tool "galaxyproteomics" %} {% cite sheynkman_using_2014 %}.
 - **{% tool "nextflow" %}**: {% tool "nf-core" %} {% cite ewels_nf-core_2020 %} is a significant effort in this space, and there are talks, training and hackathons you can join. Check out their [`join nf-core`](https://nf-co.re/join) page to find out how to get involved.
-- **{% tool "snakemake" %}** {% cite molder_sustainable_2021 %}: Visit the {% tool "snakemake-community" %} and don’t forget to check the different ways you can get [support](https://snakemake.readthedocs.io/en/stable/#support).
+- **{% tool "snakemake" %}** {% cite molder_sustainable_2021 %}: Visit this [community effort](https://snakemake.github.io/) focused on developing Snakemake workflows and don’t forget to check the different ways you can get [support](https://snakemake.readthedocs.io/en/stable/#support).
 
 {% include callout.html type="tip" content="Are you not sure which community to join? You could start by joining one of the many [RSE societies](https://researchsoftware.org/) that exist globally. These communities address many of the challenges faced by creators of research-centric software, including visibility of their contribution to research." %}
  
